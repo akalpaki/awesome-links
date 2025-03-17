@@ -7,3 +7,6 @@ TODO: properly organize this, maybe convert to wiki
 ## BubbleTea:
 
 - [Louis Garman's "Building Bubbletea Programs": quite deep technical info and good description of the mental model of designing UIs that work with Tea](https://leg100.github.io/en/posts/building-bubbletea-programs/)
+
+## Style
+- [98.css: library that mimics Windows98 style using CSS](https://github.com/jdan/98.css)
